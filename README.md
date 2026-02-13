@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Live Demo  
-🔗 https://your-username.github.io/employee-hiring-platform/
+🔗 https://gowtham-015.github.io/Employee-Hiring-Platform/
 
 ---
 
